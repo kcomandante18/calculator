@@ -8,3 +8,4 @@ Easy to Use: Intuitive layout for quick calculations.
 
 To use the app, open the index.html file in your web browser. 
   
+ 
